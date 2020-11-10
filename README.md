@@ -1,1 +1,1 @@
-# Fitts-s-Law-Experiment
+# Fitts-Law-Experiment
