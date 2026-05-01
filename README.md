@@ -3,3 +3,7 @@
 
 # Fitts-Law-Experiment 
 It holds that movement time (MT) for target-directed aiming movements increases as a function of target distance and decreases as a function of target width. The purpose of this study was to determine whether Fitts’ Law is affected not only by the demands of the target on the current trial but also by the requirements for performance on the previous trial.
+
+# Author
+**Mohamed Metwalli** - Software Engineer & Technical Writer  
+🌐 [mohamedmetwalli.com](https://www.mohamedmetwalli.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-metwalli5)
